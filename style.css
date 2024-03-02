@@ -1,0 +1,16 @@
+/*red square properties*/
+.red {
+    height: 50px;
+    width: 50px;
+    background-color: #ff5151;
+    float: left;
+    margin:3px;
+}
+/*container properties*/
+#container{
+    height: 900px;
+    width: 100%;
+    border:3px solid black;
+    color: #dddddd;
+    float:left;
+}
